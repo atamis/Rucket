@@ -1,0 +1,12 @@
+GEM
+  remote: http://rubygems.org/
+  specs:
+    eventmachine (0.12.10)
+    isaac (0.2.6)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  eventmachine
+  isaac
